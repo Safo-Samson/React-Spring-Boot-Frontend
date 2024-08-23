@@ -1,14 +1,14 @@
 import React from "react";
 
-const AddProduct = () => {
+const Cart = () => {
   return (
     <div>
       <h2 className="text-center" style={{ padding: "10rem" }}>
         {" "}
-        Add Product
+        CART PAGE
       </h2>
     </div>
   );
 };
 
-export default AddProduct;
+export default Cart;
